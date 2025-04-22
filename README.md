@@ -1,16 +1,16 @@
-# sqflite_todoapp
+# 📝 Flutter ToDo App (MVVM + Sqflite)
 
-A new Flutter project.
+## 📸 Screenshots
 
-## Getting Started
+| Task Creation                   | Task List                       | Delete Confirmation             |
+| ------------------------------- | ------------------------------- | ------------------------------- |
+| <img src="1.jpeg" width="200"/> | <img src="2.jpeg" width="200"/> | <img src="3.jpeg" width="200"/> |
 
-This project is a starting point for a Flutter application.
+## 🚀 Overview
 
-A few resources to get you started if this is your first Flutter project:
+This is a beautiful and efficient **ToDo List App** built with **Flutter**, using the power of the **MVVM architecture** and **Sqflite** for local data persistence. It allows users to perform full **CRUD** operations — all offline and super smooth.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Add tasks  
+✅ Update task status  
+✅ Delete tasks  
+✅ View saved tasks persistently across app restarts
